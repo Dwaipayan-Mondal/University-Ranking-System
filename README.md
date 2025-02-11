@@ -18,7 +18,7 @@ This project focuses on extracting, analyzing, and ranking researchers, departme
 
 ## Data Sources
 - **IRINS Database** ([irins.inflibnet.ac.in](https://irins.inflibnet.ac.in/))
-- **Stanford Researchers Database**
+- **Stanford Researchers Database** (.[adscientificindex.stanford].)(https://www.adscientificindex.com/?university=Stanford+University)
 - **Google Scholar** (for extended citation metrics)
 - **AD Scientific Index** (for additional researcher insights)
 
