@@ -82,5 +82,16 @@ Then open `http://127.0.0.1:5000/` in a browser.
 - **Machine Learning**: Predict researcher impact scores based on trends.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/622d4f18-9a95-42e5-8f52-01eb74c98e54)
+
+![image](https://github.com/user-attachments/assets/30525f62-4d22-4282-a1bd-e63a538e46b4)
+
+![image](https://github.com/user-attachments/assets/d14cbd21-9662-40fb-98d9-a61db6ab16c2)
+
+![image](https://github.com/user-attachments/assets/a42aaa45-01a2-4dc4-96be-70b2541abb24)
+
+
+
+
 
 
